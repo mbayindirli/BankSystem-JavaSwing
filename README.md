@@ -1,6 +1,10 @@
 
 # Bank System
-Bank System
+
+Banka Sistemi olması sebebi ile güvenlik ön planda tutuldu. 
+Olması muhtemel hatalara karşı "Transaction "işlemi kullanıldı.
+Sistemi giriş işlemi rol durumuna göre değişmektedir.
+Sistemde kullanılacak kur bilgileri JSOUP ile Merkez Bankasından çekilmektedir.
 
 # Project Display Image
 
